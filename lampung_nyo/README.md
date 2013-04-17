@@ -1,7 +1,7 @@
 ### General information
-**Language**: Indonesia
+**Language**: Lampung Nyo
 
-**Countries**: [Countries where this is spoken]
+**Countries**: Indonesia
 
 **10/40 Windows**: Yes
 
