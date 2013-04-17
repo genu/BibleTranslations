@@ -1,5 +1,5 @@
 ### General information
-Language: [language name]
+**Language**: [language name]
 
 **Countries**: [Countries where this is spoken]
 
