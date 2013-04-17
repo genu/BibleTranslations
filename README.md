@@ -8,10 +8,13 @@ This is an effort to create bible translations in languages where there is curre
 4. 4. Given the nature of the task, once a translation is considered complete, it will need to go through a review/editing process
 
 ### File Organization
-## Structure
+#### Structure
 The best way in organizing files, is to have each book in a separate folder. For example:
 - New Testament
     - Matthew
          - 1.md
          - 2.md
          - ...etc
+
+### Contributions
+Submit pull requests for contributions to any language. If introducing new languages, to this repository, just duplicate the **template** directory, and submit a pull request.
